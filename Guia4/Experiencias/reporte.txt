@@ -1,0 +1,3 @@
+Numero de cuenta: 002
+Titular: Luis
+Saldo: S/ 1300.0
