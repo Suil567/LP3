@@ -1,0 +1,8 @@
+Caballero 100 2 4 2 1
+Guerrero 2 4 2 4 1
+Arquero 2 4 1 8 1
+Aleatorio1 6 5 8 10 1
+Aleatorio2 4 1 4 9 1
+Aleatorio3 5 3 10 3 1
+Aleatorio4 3 5 7 4 1
+Aleatorio5 10 2 4 3 1
